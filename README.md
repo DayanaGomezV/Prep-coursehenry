@@ -1,2 +1,2 @@
-# Prep-coursehenry
-Este es unpositorio de prueba del modulo 2 del prepcourse de henry 
+Este proyecto es una prueba de como crear repositorio y como clonarlo desde github a mi computadora 
+ 
